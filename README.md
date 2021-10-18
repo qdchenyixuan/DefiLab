@@ -1,12 +1,16 @@
 # DefiLab
 玩币的心得/Defi入门(大部分需要科学上网)  
-
+```
 一定要保管好自己的助记词或私钥：手写多份保存在安全的位置，尽量选择Trust钱包,不要乱授权合约，暂时用不到的可以去Debank取消合约授权
-
+```
 
 ## Defi通用工具
 
+[币安返佣注册](https://accounts.binance.com/zh-CN/register?ref=121306393)
+
 [链上分析 defillama](https://defillama.com/home) 
+
+[跨链桥价格查询 defieye](https://tools.defieye.io/bridge/)
 
 [巨鲸地址](https://docs.google.com/spreadsheets/d/1X7aKw7XEGoGw5AX1WnX6Rs-T8BXMDg7LvC5zSHR5Wn4/htmlview)    
 
@@ -39,12 +43,17 @@
 []()
 []()
 
-## 纯白嫖项目
+## 白嫖项目
 [odysee每日观看视频](https://odysee.com/$/invite/AiHE647VJ2JqtbXmT8Ca7YjoNbat1ght)（代币为LBC）
+
 [Hi平台每日签到](https://hi.com/ClearChen)
 
 ## 优质帖子
-[比特币/以太坊本轮牛市价格判断（2021）](https://www.1point3acres.com/bbs/thread-717041-1-1.html)
+[比特币/以太坊本轮牛市价格判断（2021）](https://www.1point3acres.com/bbs/thread-717041-1-1.html) 
+
+[威科夫吸筹派发](https://zhuanlan.zhihu.com/p/76875345)
+
+[defi基础入门](https://guide.defieye.io/)
 
 ## 硬件挖矿
 
