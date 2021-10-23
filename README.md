@@ -53,7 +53,9 @@
 
 [威科夫吸筹派发](https://zhuanlan.zhihu.com/p/76875345)
 
-[defi基础入门](https://guide.defieye.io/)
+[监控巨鲸钱包方法](https://mirror.xyz/dfarm.eth/wLPwblrM9XziIJlkbTe2mf-lb9BVeus5Wi3D42Fgt8I?&continueFlag=47f07231bdd076a754f5ffe028add82b)
+
+[三箭资本Defi布局](https://www.chainnews.com/articles/260642861694.htm)
 
 ## 硬件挖矿
 
