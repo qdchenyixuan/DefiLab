@@ -43,6 +43,10 @@
 []()
 []()
 
+## BSC Defi
+
+[cake IFO教程](assets/cake_ifo.md)
+
 ## 白嫖项目
 [odysee每日观看视频](https://odysee.com/$/invite/AiHE647VJ2JqtbXmT8Ca7YjoNbat1ght)（代币为LBC）
 
