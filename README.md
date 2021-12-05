@@ -72,7 +72,9 @@
 
 ## 链游
 [raca实时价格](https://i8jk.com/?__CBK=30e3780980368b54cdc7538e2a9aef4881638675232_4964)
+
 [raca实时成交](https://mycointool.com/RacaMarketRealTimeTrans)
+
 [链游流通数据](https://dappradar.com/rankings/protocol/binance-smart-chain/category/games)
 
 ## 优质帖子
@@ -86,8 +88,10 @@
 
 ## 硬件挖矿
 
-[多矿池收益对比](https://minerstat.com/)
+[多矿池收益对比](https://minerstat.com/) 
+
 [多矿池研究文章](https://mp.weixin.qq.com/s?__biz=MzIyOTc5MDE4MA==&mid=2247484301&idx=1&sn=d462479789eeb5b88e7781496e1ac228&chksm=e8bc1b06dfcb9210638423da48e0731ed966bcccc26ffda623718331ad841f7d98dc65a6faa9&mpshare=1&scene=1&srcid=11016eZCmySUZt7oZSvbyuYw&sharer_sharetime=1635728864237&sharer_shareid=a76a5b5e95d741e74db91c10fd79ff6e#rd)
+
 [权威数据 btc.com](https://btc.com/)
 
 ## NFT
@@ -95,4 +99,5 @@
 
 ## 关于我
 [Twitter](https://twitter.com/clear0v0)
+
 [Discord空投白名单新项目分享](https://discord.gg/62pWp4zBpA)
