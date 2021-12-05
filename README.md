@@ -1,5 +1,6 @@
 # DefiLab
 玩币的心得/Defi入门(大部分需要科学上网)  
+点击右上角Watch可以获得更新或加入[Discord空投白名单新项目分享](https://discord.gg/62pWp4zBpA)订阅
 ```
 一定要保管好自己的助记词或私钥：手写多份保存在安全的位置，尽量选择Trust钱包,不要乱授权合约，暂时用不到的可以去Debank取消合约授权
 ```
@@ -51,7 +52,8 @@
 [土矿取回资产](https://app.yinxiang.com/fx/4a71ce54-ca44-4478-bd33-174b36534074)
 
 [每日新土狗](https://cntoken.io/coins)
-[]()
+
+[被黑土矿解析](https://rekt.news/leaderboard/?continueFlag=8996eae0c64321f7eee9c45aadff3f8c)
 []()
 []()
 []()
@@ -86,3 +88,11 @@
 
 [多矿池收益对比](https://minerstat.com/)
 [多矿池研究文章](https://mp.weixin.qq.com/s?__biz=MzIyOTc5MDE4MA==&mid=2247484301&idx=1&sn=d462479789eeb5b88e7781496e1ac228&chksm=e8bc1b06dfcb9210638423da48e0731ed966bcccc26ffda623718331ad841f7d98dc65a6faa9&mpshare=1&scene=1&srcid=11016eZCmySUZt7oZSvbyuYw&sharer_sharetime=1635728864237&sharer_shareid=a76a5b5e95d741e74db91c10fd79ff6e#rd)
+[权威数据 btc.com](https://btc.com/)
+
+## NFT
+[NFT价格曲线](https://github.com/qdchenyixuan/DefiLab)
+
+## 关于我
+[Twitter](https://twitter.com/clear0v0)
+[Discord空投白名单新项目分享](https://discord.gg/62pWp4zBpA)
