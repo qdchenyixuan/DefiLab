@@ -1,6 +1,8 @@
 # DefiLab
 玩币的心得/Defi入门(大部分需要科学上网)  
 点击右上角Watch可以获得更新或加入[Discord空投白名单新项目分享](https://discord.gg/62pWp4zBpA)订阅
+
+我们的[DAO社区](https://discord.gg/Yu6sUk6gAZ)
 ```
 一定要保管好自己的助记词或私钥：手写多份保存在安全的位置，尽量选择Trust钱包,不要乱授权合约，暂时用不到的可以去Debank取消合约授权
 ```
