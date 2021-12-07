@@ -9,6 +9,8 @@
 
 [币安返佣注册](https://accounts.binance.com/zh-CN/register?ref=121306393)
 
+[自用优质梯子10元一月300GB](https://ikuuu.co/auth/register?code=eZfL)
+
 [链上分析 defillama](https://defillama.com/home) 
 
 [知名投资机构参投统计 cypherhunter](https://www.cypherhunter.com/zh-hans/)
