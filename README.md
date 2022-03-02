@@ -1,8 +1,4 @@
-[NYD DAO社区](https://discord.gg/Yu6sUk6gAZ)  
-
 [最新空投信息discord](https://discord.gg/62pWp4zBpA)  
-
-[OKEX 40%返佣](https://www.ouyicn.tech/join/1866934523)
 ```
 一定要保管好自己的助记词或私钥：手写多份保存在安全的位置，尽量选择Trust这种安全性更高的钱包，不要乱授权合约，暂时用不到的可以去Debank或者各大链的SCAN取消合约授权
 ```
@@ -10,11 +6,13 @@
 
 ## Defi常用工具
 
-[链上分析 defillama](https://defillama.com/home) 
+[链上TVL defillama](https://defillama.com/home) 
 
 [跨链桥价格查询 defieye](https://tools.defieye.io/bridge/)
 
-[巨鲸地址](https://docs.google.com/spreadsheets/d/1X7aKw7XEGoGw5AX1WnX6Rs-T8BXMDg7LvC5zSHR5Wn4/htmlview)    
+[OKEX 40%手续费减免注册](https://www.ouyicn.tech/join/1866934523)
+
+[常见巨鲸地址](https://docs.google.com/spreadsheets/d/1X7aKw7XEGoGw5AX1WnX6Rs-T8BXMDg7LvC5zSHR5Wn4/htmlview)    
 
 [k线 dexscreener](https://dexscreener.com/)
 
@@ -56,7 +54,7 @@
 
 [免费链上数据分析](https://www.coinglass.com/)(原bybt,个人非常关注Cryptofutures Open Interest & Volume)
 
-## 测试网/主网交互
+## 测试网/主网撸毛交互
 
 [空投交互聚合 @flypotato132](https://docs.google.com/spreadsheets/d/1SfV5ZEzKWWnZkOBnUmOXEBZvc3TMkkfAUj6ic2XV8IQ/edit#gid=541890420)
 
@@ -64,13 +62,21 @@
 
 [一撇社区交互](https://docs.google.com/spreadsheets/d/1S-KrLnWX6bBriN4zHDuTKFF0sCTz0zzUwTfZ_-QYDOw/edit#gid=921661028)
 
-[]()
-[]()
-[]()
+[水龙头部分聚合](https://mirror.xyz/3344521.eth/XdxM6yA728WLI6jm-5PM4RkVs0bNSx89PUswzQf7N5Q) 
+
+[8848社区高频率更新优质信息](https://twitter.com/8848Community) 
+
+[DeMo去中心化周末优质小众信息](https://twitter.com/0xDeMoo)
 
 [odysee每日观看视频](https://odysee.com/$/invite/AiHE647VJ2JqtbXmT8Ca7YjoNbat1ght)（代币为LBC）
 
+[融资信息](https://www.dovemetrics.com/)
+
+[difilama 潜在空投发掘](https://defillama.com/airdrops)
+
 [资讯](https://coinowo.com/active-airdrop)
+
+
 
 ## 链游
 [raca实时价格](https://i8jk.com/?__CBK=30e3780980368b54cdc7538e2a9aef4881638675232_4964)
@@ -124,12 +130,14 @@
 ## 关于我
 [Twitter](https://twitter.com/clear0v0)
 
-[Discord空投撸毛分享](https://discord.gg/62pWp4zBpA)  
-
 [NYD DAO社区](https://discord.gg/Yu6sUk6gAZ)  
+
+[梭教授lSP DAO社区申请(需要简历)](https://twitter.com/hellosuoha)
+
+[Discord空投撸毛分享](https://discord.gg/62pWp4zBpA)  
 
 [币安返佣注册](https://accounts.binance.com/zh-CN/register?ref=121306393)  
 
-[OKEX 40%返佣](https://www.ouyicn.tech/join/1866934523)
+[OKEX 40%手续费减免注册](https://www.ouyicn.tech/join/1866934523)
 
 通过我注册链接注册请联系我，不管你交易与否，提供终身技术支持
