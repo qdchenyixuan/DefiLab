@@ -1,21 +1,16 @@
 # DefiLab
-玩币的心得/Defi入门(大部分需要科学上网)  
-点击右上角Watch可以获得更新或加入[Discord空投白名单新项目分享](https://discord.gg/62pWp4zBpA)订阅
-
-我们的[DAO社区](https://discord.gg/Yu6sUk6gAZ)
+Defi工具集合
+[Discord空投撸毛分享](https://discord.gg/62pWp4zBpA)
+[NYD DAO社区](https://discord.gg/Yu6sUk6gAZ)
+[币安返佣注册](https://accounts.binance.com/zh-CN/register?ref=121306393)
 ```
-一定要保管好自己的助记词或私钥：手写多份保存在安全的位置，尽量选择Trust钱包,不要乱授权合约，暂时用不到的可以去Debank取消合约授权
+一定要保管好自己的助记词或私钥：手写多份保存在安全的位置，尽量选择Trust钱包,不要乱授权合约，暂时用不到的可以去Debank或者各大链的SCAN取消合约授权
 ```
+[]()
 
 ## Defi通用工具
 
-[币安返佣注册](https://accounts.binance.com/zh-CN/register?ref=121306393)
-
-[自用优质梯子10元一月300GB](https://ikuuu.co/auth/register?code=eZfL)
-
 [链上分析 defillama](https://defillama.com/home) 
-
-[知名投资机构参投统计 cypherhunter](https://www.cypherhunter.com/zh-hans/)
 
 [跨链桥价格查询 defieye](https://tools.defieye.io/bridge/)
 
@@ -35,30 +30,38 @@
 
 [链上高收益钱包追踪](https://beta.prysm.xyz/explore?&sort=-winningNftTrades&period=All%20Time__all&socialOnly=true&assetWithBalance=All%20Communities__)
 
-
-## BSC链工具
-
+[k线 dexscreener](https://dexscreener.com/)
 
 [k线 poocoin](https://poocoin.app/) 
 
 [k线 dex.guru](https://dex.guru/) 
 
+[优质多链APY查询](https://apy.top/)
+
+[多链APY查询2](https://coindix.com/?chain=polygon&sort=-apy&kind=stable)
+
+[多链APY查询3](https://apr999.com/)（包含更多土矿）
+
+[机枪池套娃策略](https://don-key.finance/)（土矿+defi套娃，最高的收益最高的风险）
+
+[ETH GAS项目统计](https://ultrasound.money/#join-the-fam)
+
+
+## BSC链工具
+
+
 [币安官方BNB节点质押](https://www.binance.org/cn/staking) 
 
 [Pancakeswap官方糖浆池收益查询](https://bsctools.xyz/pancakeswap/pools/)  
 
-[优质多链APY查询](https://apy.top/)
 
-[多链APY查询](https://apr999.com/)（包含更多土矿）
-
-[机枪池套娃策略](https://don-key.finance/)（土矿+defi套娃，最高的收益最高的风险）
 
 [土矿取回资产](https://app.yinxiang.com/fx/4a71ce54-ca44-4478-bd33-174b36534074)
 
 [每日新土狗](https://cntoken.io/coins)
 
 [被黑土矿解析](https://rekt.news/leaderboard/?continueFlag=8996eae0c64321f7eee9c45aadff3f8c)
-[]()
+
 []()
 []()
 []()
@@ -77,8 +80,6 @@
 ## 链游
 [raca实时价格](https://i8jk.com/?__CBK=30e3780980368b54cdc7538e2a9aef4881638675232_4964)
 
-[raca实时成交](https://mycointool.com/RacaMarketRealTimeTrans)
-
 [链游流通数据](https://dappradar.com/rankings/protocol/binance-smart-chain/category/games)
 
 ## 优质帖子
@@ -90,13 +91,20 @@
 
 [三箭资本Defi布局](https://www.chainnews.com/articles/260642861694.htm)
 
+[知名投资机构参投统计 cypherhunter](https://www.cypherhunter.com/zh-hans/)
+
+
 ## 硬件挖矿
 
 [多矿池收益对比](https://minerstat.com/) 
 
 [多矿池研究文章](https://mp.weixin.qq.com/s?__biz=MzIyOTc5MDE4MA==&mid=2247484301&idx=1&sn=d462479789eeb5b88e7781496e1ac228&chksm=e8bc1b06dfcb9210638423da48e0731ed966bcccc26ffda623718331ad841f7d98dc65a6faa9&mpshare=1&scene=1&srcid=11016eZCmySUZt7oZSvbyuYw&sharer_sharetime=1635728864237&sharer_shareid=a76a5b5e95d741e74db91c10fd79ff6e#rd)
 
+[e池以外最好用的矿池](https://www.flexpool.io/zh-CN)
+
 [权威数据 btc.com](https://btc.com/)
+
+[收益统计](https://www.kryptex.org/zh-hans/hardware/nvidia-rtx-3070)
 
 ## NFT
 [NFT价格曲线](https://github.com/qdchenyixuan/DefiLab)
@@ -104,4 +112,6 @@
 ## 关于我
 [Twitter](https://twitter.com/clear0v0)
 
-[Discord空投白名单新项目分享](https://discord.gg/62pWp4zBpA)
+[Discord空投撸毛分享](https://discord.gg/62pWp4zBpA)
+[NYD DAO社区](https://discord.gg/Yu6sUk6gAZ)
+[币安返佣注册](https://accounts.binance.com/zh-CN/register?ref=121306393)
